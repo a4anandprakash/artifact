@@ -1,2 +1,2 @@
 # artifact
-Creates an artifact
+Creates a new artifact
